@@ -12,3 +12,5 @@ additional commit #2 to develop branch
 
 commitment (pun intended)
 
+commit #1 to develop branch for rebase task
+
