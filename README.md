@@ -6,6 +6,7 @@ commit #2 to develop branch
 
 additional commit #1 to develop branch
 
+<<<<<<< HEAD
 additional commit #1 to master branch for rebase task
 
 additional commit #2 to develop branch
@@ -13,6 +14,10 @@ additional commit #2 to develop branch
 commitment (pun intended)
 
 commit #1 to develop branch for rebase task
+
+commit #1 to develop branch for rebase task
+
+commit #2 to develop branch for rebase task
 
 commit #1 to develop branch for rebase task
 
